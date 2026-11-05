@@ -1,0 +1,8 @@
+# Nunca subir la clave ni los chats guardados
+.env
+env/
+__pycache__/
+historial/
+chats/
+memoria_agente.json
+*.tmp
